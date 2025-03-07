@@ -5,7 +5,7 @@ body {
   box-sizing: border-box;
 }
 
-/* Navbar */
+/* Navbar css part */
 .navbar {
   display: flex;
   justify-content: space-between;
