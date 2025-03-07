@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "type": "house",
+    "price": 500000,
+    "bedrooms": 5,
+    "postcode": "00100",
+    "dateAdded": "2024-2-25",
+    "descriptionOne": "Beautiful house in Colombo ",
+    "descriptionTwo": "This luxurious villa in the heart of Colombo features modern architecture, spacious interiors, and a beautifully landscaped garden. Equipped with a private pool, state-of-the-art kitchen, and smart home technology, it’s perfect for upscale living. Close to schools, shopping malls, and restaurants, this villa offers 5 bedrooms, 4 bathrooms, and is located in the prestigious Colombo 7 area.",
+    "listingType": "forSale",
+    "floorPlan": "/images/house1floorplan.png",
+    "images": [
+      "/images/house1.jpeg",
+      "/images/house1.2.jpeg",
+      "/images/house1.3.jpeg",
+      "/images/house1.4.jpeg",
+      "/images/house1.5.jpeg",
+      "/images/house1.6.jpeg",
+      "/images/house1.7.jpeg",
+      "/images/house1.8.jpeg",
+      "/images/house1.9.jpeg",
+      "/images/house1.10.jpeg"
+    ],
+    "location": {
+      "city": "Colombo",
+      "latitude": 6.9271,
+      "longitude": 79.8612
+    }
+  },
+  {
+    "id": 2,
+    "type": "flat",
+    "price": 300000,
+    "bedrooms": 6,
+    "postcode": "11000",
+    "dateAdded": "2024-12-20",
+    "descriptionOne": "Beautiful flat in Gampaha  ",
+    "descriptionTwo":  "Nestled along the pristine coastline of Galle, this beachfront house offers breathtaking views of the ocean and luxurious living spaces. Featuring 6 bedrooms, 5 bathrooms, a private infinity pool, and a fully equipped kitchen, the property is perfect for beach lovers seeking peace and tranquility. Just a short drive from the town center, it offers a perfect balance of luxury and convenience.",
+    "description": "A cozy flat.",
+    "listingType": "forRent",
+    "floorPlan": "/images/house2floorplan.png",
+    "images": [
+      "/images/house2.jpeg",
+      "/images/house2.1.jpeg",
+      "/images/house2.2.jpeg",
+      "/images/house2.3.jpeg",
+      "/images/house2.8.jpeg"
+    ],
+    "location": {
+      "city": "Gampaha",
+      "latitude": 7.0621,
+      "longitude": 80.2285
+    }
+  },
+  {
+    "id": 3,
+    "type": "house",
+    "price": 600000,
+    "bedrooms": 3,
+    "postcode": "20000",
+    "dateAdded": "2024-6-22",
+    "descriptionOne": "Beautiful house in Kandy ",
+    "descriptionTwo":"Located in the heart of Colombo, this modern apartment offers stylish living spaces with open-plan designs, 3 bedrooms, and 2 bathrooms. With floor-to-ceiling windows, the apartment boasts stunning city views. Residents will enjoy access to high-end amenities including a fitness center, 24/7 security, and easy access to shopping malls, restaurants, and public transport.",
+    "description": "A spacious house.",
+    "listingType": "forSale",
+    "floorPlan": "/images/house3floorplan.png",
+    "images": [
+      "/images/house3.jpeg",
+      "/images/house3.2.jpeg",
+      "/images/house3.3.jpeg",
+      "/images/house3.4.jpeg",
+      "/images/house3.5.jpeg",
+      "/images/house3.6.jpeg",
+      "/images/house3.7.jpeg"
+    ],
+    "location": {
+      "city": "Kandy",
+      "latitude": 7.2906,
+      "longitude": 80.6337
+    }
+  },
+  {
+    "id": 4,
+    "type": "flat",
+    "price": 200000,
+    "bedrooms": 4,
+    "postcode": "80280",
+    "dateAdded": "2024-12-18",
+    "descriptionOne": "Beautiful flat in Galle ",
+    "descriptionTwo": "Set amidst the serene hills of Kandy, this country house offers peaceful living surrounded by nature. With 4 spacious bedrooms, 3 bathrooms, and an expansive garden, it provides an ideal retreat for those looking for a tranquil environment. The property includes a charming veranda, ideal for outdoor dining, and is located just a short drive from Kandy’s city center.",
+    "description": "A small flat.",
+    "listingType": "forRent",
+    "floorPlan": "/images/house4floorplan.png",
+    "images": [
+      "/images/house4.jpeg",
+      "/images/house4.1.jpeg",
+      "/images/house4.2.jpeg",
+      "/images/house4.3.jpeg",
+      "/images/house4.4.jpeg",
+      "/images/house4.5.jpeg",
+      "/images/house4.6.jpeg",
+      "/images/house4.7.jpeg",
+      "/images/house4.8.jpeg",
+      "/images/house4.9.jpeg"
+    ],
+    "location": {
+      "city": "Galle",
+      "latitude": 6.0323,
+      "longitude": 80.2197
+    }
+  },
+  {
+    "id": 5,
+    "type": "house",
+    "price": 800000,
+    "bedrooms": 4,
+    "postcode": "60280",
+    "dateAdded": "2024-12-15",
+    "descriptionOne": "Beautiful house in Kurunegala ",
+    "descriptionTwo":"This luxurious penthouse, located in Colombo’s prestigious neighborhood, offers spectacular city views from every room. Featuring 4 bedrooms, 3 bathrooms, and a private rooftop pool, this property redefines urban living. With a modern, fully-equipped kitchen and a spacious living area, it is the perfect home for those who enjoy privacy and luxury in the heart of the city.",
+    "description": "A luxurious house.",
+    "listingType": "forSale",
+    "floorPlan": "/images/house5floorplan.png",
+    "images": [
+      "/images/house5.jpeg",
+      "/images/house5.1.jpeg",
+      "/images/house5.2.jpeg",
+      "/images/house5.3.jpeg",
+      "/images/house5.4.jpeg",
+      "/images/house5.5.jpeg",
+      "/images/house5.6.jpeg",
+      "/images/house5.7.jpeg",
+      "/images/house5.8.jpeg",
+      "/images/house5.9.jpeg"
+    ],
+    "location": {
+      "city": "Kurunegala",
+      "latitude": 7.4833,
+      "longitude": 80.3674
+    }
+  },
+  {
+    "id": 6,
+    "type": "flat",
+    "price": 250000,
+    "bedrooms": 5,
+    "postcode": "81000",
+    "dateAdded": "2025-01-04",
+    "descriptionOne": "Beautiful flat in Matara ",
+    "descriptionTwo": "This spacious family home located in Negombo offers 5 bedrooms, 4 bathrooms, and a large backyard with plenty of space for outdoor activities. The property features a well-designed kitchen, a living room with ample natural light, and is situated in a peaceful neighborhood. It is ideal for families looking for a comfortable and safe environment while being close to schools, shops, and the beach.",
+    "description": "A modern flat.",
+    "listingType": "forRent",
+    "floorPlan": "/images/house6floorplan.png",
+    "images": [
+      "/images/house6.jpeg",
+      "/images/house6.1.jpeg",
+      "/images/house6.2.jpeg",
+      "/images/house6.3.jpeg",
+      "/images/house6.4.jpeg",
+      "/images/house6.5.jpeg",
+      "/images/house6.6.jpeg",
+      "/images/house6.7.jpeg",
+      "/images/house6.8.jpeg",
+      "/images/house6.9.jpeg",
+      "/images/house6.10.jpeg"
+    ],
+    "location": {
+      "city": "Matara",
+      "latitude": 5.9480,
+      "longitude": 80.5373
+    }
+  },
+  {
+    "id": 7,
+    "type": "house",
+    "price": 450000,
+    "bedrooms": 3,
+    "postcode": "61012",
+    "dateAdded": "2024-09-19",
+    "descriptionOne": "Beautiful house in Puttalam ",
+    "descriptionTwo": "This contemporary house located in Kandy features 3 bedrooms, 2 bathrooms, a spacious living room, and a modern kitchen. The property also includes a small garden and is located in a peaceful neighborhood, perfect for families. It is conveniently located near schools, shopping centers, and public transport, making it an ideal location for those who need easy access to amenities.",
+    "description": "A spacious house.",
+    "listingType": "forRent",
+    "floorPlan": "/images/house7floorplan.png",
+    "images": [
+      "/images/house7.jpeg",
+      "/images/house7.1.jpeg",
+      "/images/house7.2.jpeg",
+      "/images/house7.3.jpeg",
+      "/images/house7.4.jpeg",
+      "/images/house7.5.jpeg",
+      "/images/house7.6.jpeg"
+    ],
+    "location": {
+      "city": "Puttalam",
+      "latitude": 8.0196,
+      "longitude": 79.8328
+    }
+  }
+]
